@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Alternative",
+      "body": "Occaecat ut nostrud adipisicing elit officia excepteur irure culpa in. Non eu officia ex ipsum irure pariatur sunt eu exercitation cupidatat incididunt labore. Ullamco magna irure dolore id consequat Lorem minim nostrud anim incididunt consequat mollit ea cupidatat. Commodo labore do quis cupidatat ex.",
+      "author": "Commodo",
+      "id": 2
+    },
+    {
+      "title": "Some title",
+      "body": "Some body text",
+      "author": "Mario",
+      "id": 3
+    }
+  ]
+}
